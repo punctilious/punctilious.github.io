@@ -1,0 +1,7 @@
+title: Punctilious
+description: Some opinions and thoughts
+show_downloads: false
+future: true
+google_analytics:
+theme: jekyll-theme-minimal
+permalink: /:title/
