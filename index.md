@@ -1,4 +1,4 @@
-<ul>
+<ul class="postlist">
   {% assign sorted = (site.posts | sort: 'date') | reverse %}
   {% for post in sorted %}
     <li>
