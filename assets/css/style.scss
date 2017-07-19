@@ -42,3 +42,6 @@ ul.postlist {
   margin:0;
 }
 
+ul.postlist li:last-child {
+    margin-right: 0;
+}
